@@ -1,1 +1,3 @@
-# excel_tips_tricks
+# Excel Tips & Tricks
+
+Repository containing tips and tricks
